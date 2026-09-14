@@ -2,7 +2,7 @@
   "name": "T&H Spending",
   "short_name": "T&H Spending",
   "description": "Chụp ảnh và lưu kỷ niệm mỗi ngày",
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0D0D0F",
   "theme_color": "#0D0D0F",
